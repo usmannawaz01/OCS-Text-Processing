@@ -1,5 +1,5 @@
 def is_private_use(char):
-    """Check if the given character is in one of the Unicode Private Use Areas."""
+  
     code_point = ord(char)
     # Unicode Private Use Area ranges:
     # 1. Basic Multilingual Plane (BMP) PUA: U+E000 to U+F8FF
