@@ -21,8 +21,7 @@ else:
     print("The Unicode code point for", char, "is U+{:04X}".format(code_point))
 
 
-    utf8_bytes = char.encode('utf-8')
-    print("UTF-8 encoding:", utf8_bytes)
+ 
 
 
     if is_private_use(char):
