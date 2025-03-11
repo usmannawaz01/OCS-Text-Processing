@@ -1,6 +1,6 @@
 # OCS-Text-Processing
 
-A Python toolkit for scraping, processing, and converting Old Church Slavonic (OCS) texts particularly targeting the Cyrillomethodiana Corpus Private Use Area (PUA) to standard Unicodes. This repository contains Python scripts for handling and normalizing text.
+A Python toolkit for scraping, processing, and converting Old Church Slavonic (OCS) texts particularly targeting the Cyrillomethodiana Corpus Private Use Area (PUA) into standard Unicodes. This repository contains Python scripts for handling and normalizing text.
 
 ## Requirements
 
