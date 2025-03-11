@@ -20,3 +20,5 @@ Clone or download this repository:
 git clone https://github.com/yourusername/OCS-Text-Processing.git
 cd OCS-Text-Processing
 
+## Contributing
+Contributions are welcome! Please open an issue for bugs or feature requests, and submit a pull request if you have improvements to share.
