@@ -24,7 +24,7 @@ cd OCS-Text-Processing
 
 
 ## Getting Started
-1. Download `Converter/PUA handling system.exe` and save it anywhere (e.g., Desktop).
+1. Download `OCSConverter.exe` and save it anywhere (e.g., Desktop).
 2. Double-click the `.exe` file to launch the application.
 3. If Windows SmartScreen blocks it:
    - Click **More info**
@@ -57,7 +57,7 @@ cd OCS-Text-Processing
 
 ## Interface (Screenshots)
 
-> Place the images in a folder named `interface/` in your repository.
+
 
 **Main window (database selection + input/output):**  
 ![Main window](interface/interface.png)
