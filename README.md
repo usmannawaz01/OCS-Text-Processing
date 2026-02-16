@@ -1,4 +1,4 @@
-# PUA Converter / Handling System for Old Church Slavonic
+# Converter for Old Church Slavonic
 
 A Windows desktop application for converting Old Church Slavonic text that uses **PUA (Private Use Area)** characters into processed/converted text using selectable mapping databases. It supports both **single text conversion** and **batch conversion of folders**.
 
