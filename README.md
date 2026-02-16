@@ -20,10 +20,7 @@ Clone or download this repository:
 git clone https://github.com/yourusername/OCS-Text-Processing.git
 cd OCS-Text-Processing
 ```
-## Desktop Application
-If you prefer to use the desktop application, you can download the executable file for Windows from the link below:
 
-https://drive.google.com/file/d/1N4LZVRcI3K8B_dhJBRp-mAlw6JyYcpNO/view?usp=sharing
 
 
 ## Getting Started
@@ -76,7 +73,10 @@ https://drive.google.com/file/d/1N4LZVRcI3K8B_dhJBRp-mAlw6JyYcpNO/view?usp=shari
 
 ---
 
+## Desktop Application
+If you prefer to use the desktop application, you can download the executable file for Windows from the link below:
 
+https://drive.google.com/file/d/1N4LZVRcI3K8B_dhJBRp-mAlw6JyYcpNO/view?usp=sharing
 
 
 ## Contributing
