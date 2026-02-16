@@ -65,13 +65,14 @@ https://drive.google.com/file/d/1N4LZVRcI3K8B_dhJBRp-mAlw6JyYcpNO/view?usp=shari
 **Main window (database selection + input/output):**  
 ![Main window](interface/interface.png)
 
-**Select output folder (where converted `.txt` files will be saved):**  
+ 
+**Example conversion (PUA input → processed output):** 
 ![Select output folder](interface/interface2.png)
 
 **Select input folder (folder containing PUA text files):**  
 ![Select input folder](interface/interface3.png)
 
-**Example conversion (PUA input → processed output):**  
+ **Select output folder (where converted `.txt` files will be saved):** 
 ![Example conversion](interface/interface4.png)
 
 ---
