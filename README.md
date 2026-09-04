@@ -25,6 +25,12 @@ If you prefer to use the desktop application, you can download the executable fi
 
 https://drive.google.com/file/d/1N4LZVRcI3K8B_dhJBRp-mAlw6JyYcpNO/view?usp=sharing
 
+## Web-Based Application
+
+The converter is also available as a web-based application and can be used directly in a browser:
+
+https://huggingface.co/spaces/usmannawaz/converter
+
 
 ## Getting Started
 1. Download `OCSConverter.exe` and save it anywhere (e.g., Desktop).
